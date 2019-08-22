@@ -1,0 +1,9 @@
+maubot: 0.1.0
+id: com.gitlab.ananace.Health
+version: 1.0.0
+license: MIT
+modules:
+- health
+main_class: HealthBot
+webapp: true
+database: false
